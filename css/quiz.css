@@ -1,0 +1,35 @@
+.psoruhead{
+    margin-left: 5px;
+    font-size: 150%;
+    font-weight: 600;
+    color:red;
+}
+.psoru{
+    margin-left: 10px;
+    font-size: 130%;
+    font-weight: 400;
+    color:blue;
+}
+
+
+.pbutton{
+    transition: 0.4s;
+    background-color: black;
+    color: white;
+    font-weight: 550;
+    font-size: 150%;
+    border-width: 1px;
+} 
+    
+.pbutton:hover {
+    background-color: white;
+    color: black;
+/*     margin-inline: 10px;  */
+/*     border-width: 5px; */
+/*     Transform: translateY(-6px); */
+    
+}
+.soruform{
+    margin-left: 25px;
+}
+
